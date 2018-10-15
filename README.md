@@ -1,3 +1,0 @@
-# mmsoahib.github.io
-
-utsiufuigv
