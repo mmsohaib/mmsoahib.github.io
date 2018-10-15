@@ -1,0 +1,103 @@
+/* Muhammad muneeb */
+header, hgroup, nav, footer, figure, figcaption, aside, section, article {
+	display: block;
+}
+#wrapper
+{
+		min-width: 600px;
+		width: 90%;
+		background-color: #90c8e3;
+		margin: 0 auto;
+}
+/* body of the website */
+body
+{
+	background: #00569f url("../images/ptrbackground.jpg") left top repeat-x;
+	font-size:18px;
+	margin: 20px 10px 70px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+}
+
+/* lists */
+nav a
+{
+	color:#000;
+	font-weight: bold;
+	text-decoration: none;
+}
+nav ul {
+	text-decoration: none;
+	margin: 0;
+	padding: 18px;
+	float: left;
+	list-style: none;
+	font-size: 1.2em;
+}
+nav a:visited
+{
+	color: #344873;
+}
+nav a:hover
+ {
+	color:white;
+}
+/* header have background image as snnsetv */
+header {
+	background-image: url('../images/sunset.jpg');
+	color: white;
+	background-repeat: no-repeat;
+	background-size: 100% 100%
+}
+h1 {
+	margin-bottom: 0;
+	padding: 10px;
+}
+h2 {
+	color: #3399CC;
+}
+h1 {	font-family: Georgia, "Times New Roman", serif;
+}
+h2 {
+	font-family: Georgia, "Times New Roman", serif;
+}
+img {
+	float: left;
+	margin-right: 30px;
+}
+
+#content {
+    margin-left: 200px;
+    background-color: #fff;
+		font-size: 90%;
+    padding: 10px 20px 15px 30px;
+}
+#content > ul {
+	padding: 0px;
+	list-style: inside url('marker.gif');
+	margin: 10px 0px 20px 40px;
+}
+dt {
+	color: #000033;
+}
+span {
+	font-weight: bold;
+	color: #3399CC;
+}
+/* footer with italic text */
+footer {
+	margin-left: 200px;
+	background-color: white;
+	padding: 20px;
+	font-style: italic;
+	font-size: 13px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+.resort {
+	color:#538cc6;
+	font-weight: bold;
+}
+#contact
+{
+font-size: 	90%;
+}
