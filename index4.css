@@ -4,7 +4,7 @@ header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 }
 
 body {
-	background-image: url("../images/city.jpg");
+	background-image: url("city.png");
 	background-size: 90% 100%;
 }
 
